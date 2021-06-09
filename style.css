@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.monkey1 {
+    width: 155px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    cursor: pointer;
+    display: block;
+}
+.monkey2 {
+    width: 190px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    cursor: pointer;
+}
