@@ -3,11 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+h1 {
+    text-align: center;
+    margin-top: 60px;
+    color: lightcoral;
+    font-family: sans-serif;
+}
 .monkey1 {
     width: 155px;
     position: absolute;
